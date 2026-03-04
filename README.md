@@ -1,7 +1,7 @@
 # KeyAuth Rust library
 https://docs.rs/keyauth/latest/keyauth/
 
-Credits: Nigel (Discord: chefendpoint, Telegram: ELF_Nigel)
+Credits: Nigel (Discord: pb2j, Telegram: ELF_Nigel)
 
 ## **Bugs**
 
